@@ -1,0 +1,108 @@
+Residence_ISO3,Residence,Participant Count,Median Hours,Median Streaming Hours,Median Narcissism Score,Median Participant Age,Median GAD Score,Median SWL Score,Median SPIN Score,GAD Score,SWL Score,SPIN Score
+VEN,Venezuela,28,20.0,5.5,2.0,19.5,5.0,17.5,15.5,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+IND,India,15,18.0,10.0,2.0,19.0,6.0,21.0,20.0,5-9: Mild Anxiety,21-25: Slightly Satisfied,0-20: No Social Phobia
+COL,Colombia,21,14.0,6.0,2.0,21.0,4.0,20.0,13.0,0-4: Minimal Anxiety,20: Neutral,0-20: No Social Phobia
+MKD,Macedonia,5,15.0,10.0,1.0,23.0,6.0,20.0,19.0,5-9: Mild Anxiety,20: Neutral,0-20: No Social Phobia
+BEL,Belgium,167,20.0,8.0,2.0,21.0,4.0,20.0,19.0,0-4: Minimal Anxiety,20: Neutral,0-20: No Social Phobia
+ARE,UAE,10,18.0,15.0,2.0,20.0,4.0,20.0,17.5,0-4: Minimal Anxiety,20: Neutral,0-20: No Social Phobia
+NOR,Norway,162,20.0,6.0,2.0,19.0,3.0,20.0,17.0,0-4: Minimal Anxiety,20: Neutral,0-20: No Social Phobia
+HND,Honduras,3,12.0,8.0,2.0,21.0,5.0,20.0,15.0,5-9: Mild Anxiety,20: Neutral,0-20: No Social Phobia
+DEU,Germany,1231,20.0,10.0,2.0,20.0,4.0,20.0,17.0,0-4: Minimal Anxiety,20: Neutral,0-20: No Social Phobia
+ISL,Iceland,14,21.5,14.5,2.0,23.0,4.5,20.0,12.5,5-9: Mild Anxiety,20: Neutral,0-20: No Social Phobia
+FRA,France,342,20.0,8.0,2.0,21.0,4.0,20.0,17.0,0-4: Minimal Anxiety,20: Neutral,0-20: No Social Phobia
+FIN,Finland,148,20.0,8.0,1.0,20.0,3.0,19.5,15.0,0-4: Minimal Anxiety,20: Neutral,0-20: No Social Phobia
+EST,Estonia,30,21.0,5.0,2.0,19.5,5.5,19.5,19.0,5-9: Mild Anxiety,20: Neutral,0-20: No Social Phobia
+ESP,Spain,182,20.0,7.0,2.0,20.0,5.0,20.0,14.5,5-9: Mild Anxiety,20: Neutral,0-20: No Social Phobia
+SAU,Saudi Arabia,7,20.0,8.0,1.0,20.0,7.0,20.0,19.0,5-9: Mild Anxiety,20: Neutral,0-20: No Social Phobia
+RUS,Russia,33,20.0,10.0,2.0,21.0,5.0,18.0,19.0,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+HKG,Hong Kong,9,20.0,5.0,2.0,19.0,3.0,18.0,19.0,0-4: Minimal Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+GRD,Grenada,1,10.0,5.0,2.0,21.0,2.0,34.0,11.0,0-4: Minimal Anxiety,31-35: Extremely satisfied,0-20: No Social Phobia
+ITA,Italy,109,20.0,10.0,2.0,20.0,5.0,15.0,19.0,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+JOR,Jordan,4,18.5,4.0,2.0,20.0,5.5,15.0,16.0,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+DOM,Dominican Republic,7,20.0,10.0,3.0,19.0,5.0,25.0,13.0,5-9: Mild Anxiety,21-25: Slightly Satisfied,0-20: No Social Phobia
+HUN,Hungary,54,19.5,6.5,2.0,20.5,4.0,18.0,19.5,0-4: Minimal Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+LBN,Lebanon,5,20.0,5.0,1.0,19.0,11.0,23.0,15.0,10-14: Moderate Anxiety,21-25: Slightly Satisfied,0-20: No Social Phobia
+THA,Thailand,5,16.0,6.0,2.0,19.0,2.0,22.0,16.0,0-4: Minimal Anxiety,21-25: Slightly Satisfied,0-20: No Social Phobia
+BLR,Belarus,1,20.0,12.0,5.0,19.0,1.0,29.0,7.0,0-4: Minimal Anxiety,26-30: Satisfied,0-20: No Social Phobia
+GIB,Gibraltar ,1,14.0,30.0,1.0,23.0,1.0,30.0,1.0,0-4: Minimal Anxiety,26-30: Satisfied,0-20: No Social Phobia
+SLV,El Salvador,1,25.0,5.0,2.0,18.0,4.0,27.0,12.0,0-4: Minimal Anxiety,26-30: Satisfied,0-20: No Social Phobia
+LIE,Liechtenstein,1,15.0,11.0,2.0,18.0,2.0,28.0,11.0,0-4: Minimal Anxiety,26-30: Satisfied,0-20: No Social Phobia
+DZA,Algeria,2,37.5,5.5,2.5,19.5,4.0,26.5,14.0,0-4: Minimal Anxiety,26-30: Satisfied,0-20: No Social Phobia
+UKR,Ukraine,9,12.0,6.0,1.0,22.0,4.0,22.0,14.0,0-4: Minimal Anxiety,21-25: Slightly Satisfied,0-20: No Social Phobia
+MEX,Mexico,72,17.0,8.0,2.0,21.0,4.0,23.0,15.0,0-4: Minimal Anxiety,21-25: Slightly Satisfied,0-20: No Social Phobia
+CRI,Costa Rica,8,17.5,12.5,2.5,19.0,2.5,21.5,14.0,0-4: Minimal Anxiety,21-25: Slightly Satisfied,0-20: No Social Phobia
+CHN,China,6,26.5,4.0,1.5,19.5,2.0,22.0,14.0,0-4: Minimal Anxiety,21-25: Slightly Satisfied,0-20: No Social Phobia
+CHL,Chile,60,20.0,10.0,2.0,20.5,4.0,23.0,18.5,0-4: Minimal Anxiety,21-25: Slightly Satisfied,0-20: No Social Phobia
+CHE,Switzerland,85,20.0,8.0,2.0,19.0,4.0,22.0,17.0,0-4: Minimal Anxiety,21-25: Slightly Satisfied,0-20: No Social Phobia
+AUT,Austria,129,20.0,10.0,2.0,20.0,3.0,22.0,16.0,0-4: Minimal Anxiety,21-25: Slightly Satisfied,0-20: No Social Phobia
+USA,USA,4018,20.0,8.0,2.0,20.0,4.0,21.0,17.0,0-4: Minimal Anxiety,21-25: Slightly Satisfied,0-20: No Social Phobia
+NLD,Netherlands,447,20.0,8.0,2.0,20.0,4.0,21.0,15.0,0-4: Minimal Anxiety,21-25: Slightly Satisfied,0-20: No Social Phobia
+DNK,Denmark,211,20.0,8.0,2.0,20.0,3.0,22.0,15.0,0-4: Minimal Anxiety,21-25: Slightly Satisfied,0-20: No Social Phobia
+JPN,Japan,7,24.0,15.0,2.0,26.0,2.0,21.0,7.0,0-4: Minimal Anxiety,21-25: Slightly Satisfied,0-20: No Social Phobia
+KOR,South Korea,14,20.0,4.5,2.0,22.0,2.5,22.5,14.0,0-4: Minimal Anxiety,21-25: Slightly Satisfied,0-20: No Social Phobia
+IRL,Ireland,58,15.0,10.0,2.0,21.0,3.0,22.0,16.5,0-4: Minimal Anxiety,21-25: Slightly Satisfied,0-20: No Social Phobia
+LUX,Luxembourg,7,20.0,5.0,1.0,21.0,2.0,21.0,18.0,0-4: Minimal Anxiety,21-25: Slightly Satisfied,0-20: No Social Phobia
+GEO,Georgia,3,18.0,7.0,1.0,19.0,5.0,21.0,9.0,5-9: Mild Anxiety,21-25: Slightly Satisfied,0-20: No Social Phobia
+ZAF,South Africa,22,20.5,7.0,1.5,21.5,5.0,18.5,15.5,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+NAM,Namibia,1,20.0,5.0,2.0,18.0,6.0,35.0,0.0,5-9: Mild Anxiety,31-35: Extremely satisfied,0-20: No Social Phobia
+ARG,Argentina,92,20.0,10.0,2.0,20.0,4.0,19.0,16.5,0-4: Minimal Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+PSE,Palestine,1,7.0,5.0,1.0,18.0,11.0,11.0,10.0,10-14: Moderate Anxiety,10-14: Dissatisfied,0-20: No Social Phobia
+TUR,Turkey,42,20.0,7.0,2.0,20.0,5.5,18.5,16.0,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+CAN,Canada,864,20.0,8.0,2.0,20.0,4.0,19.0,19.0,0-4: Minimal Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+PRI,Puerto Rico,12,15.0,16.0,1.5,20.5,4.5,18.5,16.5,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+POL,Poland,217,20.0,8.0,2.0,21.0,5.0,17.0,20.0,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+ALB,Albania,5,20.0,4.0,2.0,22.0,6.0,17.0,4.0,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+HRV,Croatia,63,20.0,7.0,2.0,20.0,5.0,18.0,20.0,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+PAN,Panama,4,18.5,10.0,2.0,21.5,7.0,17.5,16.5,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+CYP,Cyprus,1,39.0,10.0,1.0,18.0,4.0,19.0,19.0,0-4: Minimal Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+SYR,Syria,2,25.0,1.5,1.5,19.0,8.5,17.0,17.0,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+LTU,Lithuania,34,20.0,5.0,2.0,20.0,5.0,16.0,17.0,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+LVA,Latvia,27,25.0,7.0,2.0,19.0,7.0,18.0,17.0,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+BIH,Bosnia and Herzegovina,15,21.0,10.0,2.0,20.0,4.0,15.0,13.0,0-4: Minimal Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+NZL,New Zealand ,55,20.0,10.0,2.0,20.0,3.0,19.0,18.0,0-4: Minimal Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+GBR,UK,877,20.0,10.0,2.0,19.0,5.0,18.0,20.0,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+AUS,Australia,192,20.0,7.0,2.0,20.0,4.0,19.0,20.0,0-4: Minimal Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+MYS,Malaysia,25,15.0,7.0,2.0,20.0,5.0,16.0,19.0,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+VNM,Vietnam,11,20.0,3.0,2.0,20.0,4.0,13.0,15.0,0-4: Minimal Anxiety,10-14: Dissatisfied,0-20: No Social Phobia
+GLP,Guadeloupe,1,35.0,20.0,4.0,21.0,9.0,8.0,9.0,5-9: Mild Anxiety,5-9: Extremely Dissatisfied,0-20: No Social Phobia
+GRC,Greece,87,20.0,8.0,2.0,21.0,4.0,18.0,17.0,0-4: Minimal Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+BRN,Brunei,1,10.0,2.0,5.0,18.0,0.0,14.0,10.0,0-4: Minimal Anxiety,10-14: Dissatisfied,0-20: No Social Phobia
+SRB,Serbia,48,21.5,5.0,2.0,20.0,3.5,17.0,11.0,0-4: Minimal Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+MLT,Malta,5,20.0,20.0,3.0,20.0,4.0,11.0,12.0,0-4: Minimal Anxiety,10-14: Dissatisfied,0-20: No Social Phobia
+MAR,Morocco,12,21.5,8.5,1.5,20.5,3.5,17.5,17.5,0-4: Minimal Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+URY,Uruguay,11,21.0,15.0,2.0,20.0,7.0,14.0,16.0,5-9: Mild Anxiety,10-14: Dissatisfied,0-20: No Social Phobia
+SWE,Sweden,310,20.0,8.0,2.0,20.0,3.0,19.0,16.0,0-4: Minimal Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+BHR,Bahrain,2,19.5,5.5,2.5,22.5,5.5,17.5,17.5,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+FJI,Fiji,1,35.0,10.0,3.0,19.0,0.0,16.0,11.0,0-4: Minimal Anxiety,15-19: Slightly Dissatisfied,0-20: No Social Phobia
+QAT,Qatar,3,30.0,4.0,1.0,18.0,18.0,23.0,29.0,15-21: Severe Anxiety,21-25: Slightly Satisfied,21-30: Mild Social Phobia
+CZE,Czech Republic,63,20.0,10.0,2.0,20.0,5.0,18.0,22.0,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,21-30: Mild Social Phobia
+BRA,Brazil,224,20.0,10.0,2.0,20.0,5.0,19.0,21.0,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,21-30: Mild Social Phobia
+KWT,Kuwait,3,20.0,15.0,3.0,21.0,4.0,13.0,29.0,0-4: Minimal Anxiety,10-14: Dissatisfied,21-30: Mild Social Phobia
+VCT,St Vincent,1,15.0,4.0,1.0,19.0,5.0,26.0,28.0,5-9: Mild Anxiety,26-30: Satisfied,21-30: Mild Social Phobia
+EGY,Egypt,5,20.0,3.0,1.0,21.0,11.0,12.0,25.0,10-14: Moderate Anxiety,10-14: Dissatisfied,21-30: Mild Social Phobia
+MNE,Montenegro,2,10.5,18.5,2.5,20.0,9.0,17.0,27.5,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,21-30: Mild Social Phobia
+TUN,Tunisia,3,18.0,3.0,2.0,22.0,5.0,25.0,29.0,5-9: Mild Anxiety,21-25: Slightly Satisfied,21-30: Mild Social Phobia
+SGP,Singapore,31,20.0,3.0,2.0,19.0,4.0,18.0,29.0,0-4: Minimal Anxiety,15-19: Slightly Dissatisfied,21-30: Mild Social Phobia
+GTM,Guatemala,3,7.0,4.0,2.0,22.0,5.0,23.0,24.0,5-9: Mild Anxiety,21-25: Slightly Satisfied,21-30: Mild Social Phobia
+BGD,Bangladesh,1,20.0,4.0,3.0,18.0,6.0,22.0,26.0,5-9: Mild Anxiety,21-25: Slightly Satisfied,21-30: Mild Social Phobia
+BGR,Bulgaria,45,20.0,10.0,2.0,20.0,6.0,15.0,23.0,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,21-30: Mild Social Phobia
+MNG,Mongolia,2,19.0,6.0,3.0,20.0,6.0,15.0,29.5,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,21-30: Mild Social Phobia
+PRT,Portugal,193,20.0,7.0,2.0,20.0,4.0,18.0,21.0,0-4: Minimal Anxiety,15-19: Slightly Dissatisfied,21-30: Mild Social Phobia
+PHL,Philippines,20,20.0,9.0,2.0,22.0,6.5,16.5,28.0,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,21-30: Mild Social Phobia
+SVK,Slovakia,21,20.0,10.0,2.0,20.0,4.0,16.0,27.0,0-4: Minimal Anxiety,15-19: Slightly Dissatisfied,21-30: Mild Social Phobia
+ROU,Romania,77,20.0,7.0,2.0,20.0,5.0,19.0,21.0,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,21-30: Mild Social Phobia
+MDA,Moldova,1,21.0,20.0,4.0,18.0,10.0,19.0,22.0,10-14: Moderate Anxiety,15-19: Slightly Dissatisfied,21-30: Mild Social Phobia
+PAK,Pakistan,4,4.5,3.5,1.5,19.5,3.5,15.0,23.0,0-4: Minimal Anxiety,15-19: Slightly Dissatisfied,21-30: Mild Social Phobia
+TTO,Trinidad & Tobago,7,24.0,10.0,2.0,19.0,5.0,19.0,22.0,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,21-30: Mild Social Phobia
+ECU,Ecuador,4,25.0,5.0,2.0,21.0,4.0,19.5,21.5,0-4: Minimal Anxiety,20: Neutral,21-30: Mild Social Phobia
+ISR,Israel,23,16.0,4.0,1.0,19.0,3.0,20.0,22.0,0-4: Minimal Anxiety,20: Neutral,21-30: Mild Social Phobia
+SVN,Slovenia,61,20.0,6.0,2.0,20.0,5.0,18.0,22.0,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,21-30: Mild Social Phobia
+PER,Peru,16,15.0,6.0,3.0,19.0,7.5,20.5,29.0,5-9: Mild Anxiety,21-25: Slightly Satisfied,21-30: Mild Social Phobia
+IDN,Indonesia,1,25.0,10.0,2.0,24.0,14.0,9.0,26.0,10-14: Moderate Anxiety,5-9: Extremely Dissatisfied,21-30: Mild Social Phobia
+JAM,Jamaica,1,13.0,24.0,1.0,20.0,9.0,20.0,35.0,5-9: Mild Anxiety,20: Neutral,31-40: Moderate Social Phobia
+BLZ,Belize,2,21.0,1.5,1.5,18.0,8.5,12.0,30.5,5-9: Mild Anxiety,10-14: Dissatisfied,31-40: Moderate Social Phobia
+KAZ,Kazakhstan,1,24.0,50.0,5.0,18.0,9.0,25.0,35.0,5-9: Mild Anxiety,21-25: Slightly Satisfied,31-40: Moderate Social Phobia
+FRO,Faroe Islands,4,32.5,6.5,1.5,19.5,5.0,14.5,32.5,5-9: Mild Anxiety,15-19: Slightly Dissatisfied,31-40: Moderate Social Phobia
+TWN,Taiwan,2,31.0,6.5,2.0,21.5,4.0,11.0,37.5,0-4: Minimal Anxiety,10-14: Dissatisfied,31-40: Moderate Social Phobia
+NIC,Nicaragua,1,2.0,2.0,3.0,23.0,6.0,11.0,44.0,5-9: Mild Anxiety,10-14: Dissatisfied,41-50: Severe Social Phobia
+BOL,Bolivia,1,7.0,6.0,4.0,29.0,7.0,24.0,46.0,5-9: Mild Anxiety,21-25: Slightly Satisfied,41-50: Severe Social Phobia
